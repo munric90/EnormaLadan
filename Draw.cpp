@@ -2,7 +2,7 @@
 
 void Engine::draw()
 {
-	// Rub out the last frame
+	// Rub out the last frame fgfgg
 	m_Window.clear(Color::White);
 
 	if (!m_SplitScreen)
